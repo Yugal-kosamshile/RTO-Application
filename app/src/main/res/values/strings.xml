@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RTO</string>
+    <string name="about">About</string>
+    <string name="rto_offices_details">RTO Offices Details</string>
+    <string name="violation_and_penalty">Violation and Penalty</string>
+    <string name="rules_and_regulation">Rules and Regulation</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="the_maharashtra_rto_rules">The Maharashtra RTO Rules</string>
+</resources>
